@@ -7,6 +7,10 @@ body {
 }
 
 
+p {
+	font-size:30px;
+}
+
 header, main, footer {
 	clear:both;
 	margin-left:0;
