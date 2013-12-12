@@ -1,21 +1,27 @@
 body {
-	color:#fff;
-	background:#333;
-	font-family:Courier;
+	color:#8D38C9;
+	background: url(http://pcwallpaperhd.com/wp-content/uploads/wallpaper_for_website_background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	font-family: Sans-serif;
+  font-size: 18px;
 	width:960px;
 	margin:auto;
 }
 
 
 header, main, footer {
-	clear:both;
+	color: #ffffff
 	margin-left:0;
 	width:960px;
 	
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:#ffffff;
+  font-family: Broadway ;
 }
 
 a, a:visited {
@@ -60,9 +66,8 @@ a:hover {
 	list-style: none;
 	float:left;
 	margin-left:0;
-	border-right: 1px solid #c0c0c0;
-	}
-	
+	border-right: 1px solid #c0c0c0
+}
 #menu li {
 	width: 125px;
 	padding:5px;
