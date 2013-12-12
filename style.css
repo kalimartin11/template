@@ -14,7 +14,7 @@ body {
 
 header, main, footer {
 	color: #ffffff
-	margin-left:0;
+	margin-right:0;
 	width:960px;
 	
 }
@@ -51,7 +51,7 @@ a:hover {
 	width:110px;
 	text-align:center;
 	font-size:13px;
-	border: 2px solid white;
+	border: 2px solid #8D38C9;
 	border-radius:10px;
 }
 
@@ -80,3 +80,4 @@ article {
 	display: block;
 	float:right;
 	}
+
